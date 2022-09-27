@@ -405,6 +405,10 @@ __________________×______________________
   YouTube  :  It'z Himel
 
   WhatsApp :  01784942896
+  
+  Tools    :  paid
+  
+  Powered by It'z Himel paid Tools
 __________________×______________________\033[1;37m""")
 
 class Main:
