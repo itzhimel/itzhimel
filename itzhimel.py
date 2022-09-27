@@ -400,9 +400,11 @@ __________________×______________________
  
   Github   :  itzhimel
 
-  Facebook: Rakibul Islam Himel    (50% Ok Account Open Just Now)❤️
+  Facebook :  Rakibul Islam Himel    (80% Ok Account Open Just Now)
+  
+  YouTube  :  It'z Himel
 
-  WhatsApp: 01784942896
+  WhatsApp :  01784942896
 __________________×______________________\033[1;37m""")
 
 class Main:
